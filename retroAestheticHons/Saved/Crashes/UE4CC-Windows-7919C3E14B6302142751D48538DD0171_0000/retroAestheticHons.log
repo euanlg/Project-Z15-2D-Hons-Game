@@ -1,0 +1,1076 @@
+﻿Log file open, 01/04/18 13:34:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: retroAestheticHons
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1852228816) SRandInit(1852228816).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188826
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.04-13.34.25:277][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.04-13.34.25:277][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.04-13.34.25:294][  0]LogInit: Computer: EUAN-PC
+[2018.01.04-13.34.25:294][  0]LogInit: User: Euan
+[2018.01.04-13.34.25:294][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.04-13.34.25:295][  0]LogInit: High frequency timer resolution =3.417963 MHz
+[2018.01.04-13.34.25:295][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.04-13.34.25:295][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.04-13.34.25:295][  0]LogMemory: Process Physical Memory: 273.57 MB used, 273.57 MB peak
+[2018.01.04-13.34.25:295][  0]LogMemory: Process Virtual Memory: 271.78 MB used, 271.78 MB peak
+[2018.01.04-13.34.25:295][  0]LogMemory: Physical Memory: 3908.76 MB used,  4218.68 MB free, 8127.44 MB total
+[2018.01.04-13.34.25:295][  0]LogMemory: Virtual Memory: 678.83 MB used,  4218.68 MB free, 134217728.00 MB total
+[2018.01.04-13.34.25:811][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.04-13.34.25:811][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.04-13.34.25:823][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.04-13.34.26:199][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.04-13.34.27:068][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.04-13.34.27:108][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.01.04-13.34.27:108][  0]LogD3D11RHI:       6061/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.04-13.34.27:110][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.04-13.34.27:110][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.04-13.34.27:110][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.04-13.34.27:115][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.04-13.34.27:115][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.04-13.34.27:115][  0]LogWindows: EnumDisplayDevices:
+[2018.01.04-13.34.27:115][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.01.04-13.34.27:115][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.01.04-13.34.27:115][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.04-13.34.27:115][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.04-13.34.27:115][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.04-13.34.27:115][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.01.04-13.34.27:115][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.04-13.34.27:115][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.04-13.34.27:115][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.04-13.34.27:139][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.04-13.34.27:161][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.04-13.34.27:208][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Intermediate/Shaders/WorkingDirectory/13076/).
+[2018.01.04-13.34.27:208][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Euan/AppData/Local/Temp/UnrealShaderWorkingDir/1BB680254DA086A6B65E96A59EC87DF3/'.
+[2018.01.04-13.34.27:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.04-13.34.28:915][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.04-13.34.28:967][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.04-13.34.29:021][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.04-13.34.29:072][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.04-13.34.29:130][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.04-13.34.29:181][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.04-13.34.29:232][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.04-13.34.29:284][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.04-13.34.29:331][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.04-13.34.29:382][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.04-13.34.29:432][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.04-13.34.29:483][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.04-13.34.29:533][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.04-13.34.29:586][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.04-13.34.29:687][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.04-13.34.29:687][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.04-13.34.29:741][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.04-13.34.29:783][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.04-13.34.29:888][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.04-13.34.29:914][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.04-13.34.29:964][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.04-13.34.30:016][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.04-13.34.30:067][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.04-13.34.30:129][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.04-13.34.30:129][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.04-13.34.30:913][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.04-13.34.30:978][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Euan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.04-13.34.30:978][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Euan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.04-13.34.30:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.04-13.34.30:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.04-13.34.30:979][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.04-13.34.30:979][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.04-13.34.30:993][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.04-13.34.31:005][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Euan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.04-13.34.31:014][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.04-13.34.31:014][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.04-13.34.31:017][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.04-13.34.31:017][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.04-13.34.32:862][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.04-13.34.33:231][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.04-13.34.33:273][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.04-13.34.33:273][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.04-13.34.33:273][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.04-13.34.33:273][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.04-13.34.33:273][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.04-13.34.33:312][  0]LogNetVersion: retroAestheticHons , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 883974791)
+[2018.01.04-13.34.33:523][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.01.04-13.34.34:173][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.067508 seconds
+[2018.01.04-13.34.34:179][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.04-13.34.34:179][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.04-13.34.34:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.04-13.34.34:238][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.04-13.34.39:883][  0]LogWmfMedia: Failed to load mf.dll
+[2018.01.04-13.34.39:883][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2018.01.04-13.34.39:950][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2018.01.04-13.34.39:951][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2018.01.04-13.34.39:951][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2018.01.04-13.34.40:498][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.04-13.34.40:541][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.04-13.34.41:348][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.04-13.34.41:822][  0]SourceControl: Source control is disabled
+[2018.01.04-13.34.41:822][  0]SourceControl: Source control is disabled
+[2018.01.04-13.34.41:880][  0]SourceControl: Source control is disabled
+[2018.01.04-13.34.41:938][  0]SourceControl: Source control is disabled
+[2018.01.04-13.34.42:904][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.04-13.34.43:242][  0]LogOcInput: OculusInput pre-init called
+[2018.01.04-13.34.43:564][  0]LogEngine: Initializing Engine...
+[2018.01.04-13.34.43:566][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.04-13.34.43:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.04-13.34.43:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.04-13.34.43:942][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.04-13.34.43:953][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-13.34.43:967][  0]LogInit: FAudioDevice initialized.
+[2018.01.04-13.34.44:049][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Euan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.04-13.34.44:062][  0]LogInit: Texture streaming: Enabled
+[2018.01.04-13.34.44:168][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.04-13.34.44:304][  0]LogInit: Transaction tracking system initialized
+[2018.01.04-13.34.44:658][  0]BlueprintLog: New page: Editor Load
+[2018.01.04-13.34.45:699][  0]LocalizationService: Localization service is disabled
+[2018.01.04-13.34.46:567][  0]LogConsoleResponse: Display: 
+[2018.01.04-13.34.46:801][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.04-13.34.46:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/' took 0.01s
+[2018.01.04-13.34.46:802][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.04-13.34.46:802][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.04-13.34.48:189][  0]SourceControl: Source control is disabled
+[2018.01.04-13.34.48:190][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.04-13.34.48:192][  0]LightingResults: New page: Lighting Build
+[2018.01.04-13.34.48:241][  0]MapCheck: New page: Map Check
+[2018.01.04-13.34.48:242][  0]LightingResults: New page: Lighting Build
+[2018.01.04-13.34.48:464][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.04-13.34.48:471][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.04-13.34.48:481][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.04-13.34.48:537][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.961ms to complete.
+[2018.01.04-13.34.48:538][  0]LogFileHelpers: Loading map 'Template_Default' took 0.348
+[2018.01.04-13.34.48:599][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.04-13.34.48:599][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.04-13.34.48:740][  0]LogCollectionManager: Loaded 0 collections in 0.001719 seconds
+[2018.01.04-13.34.48:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Collections/' took 0.01s
+[2018.01.04-13.34.48:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/Developers/Euan/Collections/' took 0.01s
+[2018.01.04-13.34.48:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/Collections/' took 0.01s
+[2018.01.04-13.34.48:840][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.04-13.34.48:849][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2363 classes and 519 folders.
+[2018.01.04-13.34.48:925][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.04-13.34.49:192][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.04-13.34.49:245][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.04-13.34.49:306][  0]LogSlate: Took 0.003499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.04-13.34.49:312][  0]LogSlate: Took 0.004074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.04-13.34.49:322][  0]LogSlate: Took 0.002454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.04-13.34.49:450][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.04-13.34.49:760][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.04-13.34.49:761][  0]LogLoad: (Engine Initialization) Total time: 28.03 seconds
+[2018.01.04-13.34.49:761][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.04-13.34.49:761][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.04-13.34.49:761][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.04-13.34.49:785][  0]LogAssetRegistry: Asset discovery search completed in 16.2835 seconds
+[2018.01.04-13.34.49:787][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.04-13.34.49:787][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2018.01.04-13.34.49:790][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.04-13.34.49:843][  0]LogSlate: Took 0.003595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-13.34.50:784][104]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-13.35.01:736][411]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-13.35.01:803][411]LogSlate: Took 0.002651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.04-13.35.03:643][571]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:162).
+[2018.01.04-13.36.31:928][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/lvl1TileMap" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset" SILENT=true
+[2018.01.04-13.36.32:060][738]LogSavePackage: Save=120.62ms
+[2018.01.04-13.36.32:060][738]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/lvl1TileMap03870B9943F459CE77644D81F4A3528D.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset'
+[2018.01.04-13.36.32:064][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset
+[2018.01.04-13.38.55:369][674]LogSavePackage: Save=94.34ms
+[2018.01.04-13.38.55:369][674]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/0x72_16x16RobotTileset_v1_TileSe34559C244AB72E94FEA32F9E47A46961.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/0x72_16x16RobotTileset_v1_TileSet.uasset'
+[2018.01.04-13.38.55:371][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/0x72_16x16RobotTileset_v1_TileSet.uasset
+[2018.01.04-13.39.08:639][566]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.01.04-13.39.08:641][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.04-13.39.08:641][566]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2018.01.04-13.39.10:146][566]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.01.04-13.39.10:146][566]LogEditorActor: Deleted Actor: PlayerStart
+[2018.01.04-13.39.10:147][566]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.01.04-13.39.10:147][566]LogEditorActor: Deleted Actor: SkyLight
+[2018.01.04-13.39.10:147][566]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.01.04-13.39.10:157][566]LogEditorActor: Deleted 7 Actors (1.523 secs)
+[2018.01.04-13.39.19:877][719]Cmd: DELETE
+[2018.01.04-13.39.19:877][719]Cmd: ACTOR DELETE
+[2018.01.04-13.39.19:881][719]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.04-13.39.19:889][719]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.01.04-13.41.03:058][230]LogSlate: Took 0.011055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.04-13.41.31:568][610]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bg_Sprite)
+[2018.01.04-13.41.45:966][296]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bg_Sprite)
+[2018.01.04-13.41.59:549][910]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bg_Sprite)
+[2018.01.04-13.43.35:704][ 44]LogEditorFactories: Performing atomic reimport of [C:/Users/Euan/Desktop/Z15-small.png]
+[2018.01.04-13.43.35:704][ 44]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Euan/Desktop/Z15-small.png)
+[2018.01.04-13.43.35:709][ 44]LogTexture: Display: Building textures: Z15-small (BGRA8, 216X32)
+[2018.01.04-13.43.35:713][ 44]LogEditorFactories: -- imported successfully
+[2018.01.04-13.43.49:850][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset" SILENT=true
+[2018.01.04-13.43.49:857][429]LogSavePackage: Save=2.69ms
+[2018.01.04-13.43.49:857][429]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small4D87B84043EEA854CB3CF68CE7DA7EE5.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset'
+[2018.01.04-13.43.49:858][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset
+[2018.01.04-13.44.17:393][107]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.04-13.46.02:669][247]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2018.01.04-13.47.03:250][248]LogSavePackage: Save=7.71ms
+[2018.01.04-13.47.03:250][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Untitled_1_Auto131A9980B45577EFB973DB69FA7F06744.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.01.04-13.47.03:251][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.01.04-13.47.03:253][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.024
+[2018.01.04-13.47.03:253][248]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.024
+[2018.01.04-13.47.03:256][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small] ([1] browsable assets)...
+[2018.01.04-13.47.03:257][248]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TileSheets/Z15-small.Z15-small]
+[2018.01.04-13.47.03:257][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small]
+[2018.01.04-13.47.03:262][248]LogSavePackage: Save=1.99ms
+[2018.01.04-13.47.03:262][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Auto175BA3FF3475421D1F336C2AA1AC01120.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Auto1.uasset'
+[2018.01.04-13.47.03:263][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Auto1.uasset
+[2018.01.04-13.47.03:263][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_0] ([1] browsable assets)...
+[2018.01.04-13.47.03:270][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_0.Z15-small_Sprite_0]
+[2018.01.04-13.47.03:270][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_0]
+[2018.01.04-13.47.03:275][248]LogSavePackage: Save=3.90ms
+[2018.01.04-13.47.03:275][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_0_Auto10C751C5243331BF97460AC832621445B.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_0_Auto1.uasset'
+[2018.01.04-13.47.03:276][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_0_Auto1.uasset
+[2018.01.04-13.47.03:276][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_1] ([1] browsable assets)...
+[2018.01.04-13.47.03:282][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_1.Z15-small_Sprite_1]
+[2018.01.04-13.47.03:282][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_1]
+[2018.01.04-13.47.03:287][248]LogSavePackage: Save=4.00ms
+[2018.01.04-13.47.03:287][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_1_Auto1902B3FB6407BFFDC79137BACEA078B19.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_1_Auto1.uasset'
+[2018.01.04-13.47.03:288][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_1_Auto1.uasset
+[2018.01.04-13.47.03:289][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_2] ([1] browsable assets)...
+[2018.01.04-13.47.03:295][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_2.Z15-small_Sprite_2]
+[2018.01.04-13.47.03:295][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_2]
+[2018.01.04-13.47.03:300][248]LogSavePackage: Save=3.66ms
+[2018.01.04-13.47.03:300][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_2_Auto112228E9845F23903F12ABF9C897D7F04.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_2_Auto1.uasset'
+[2018.01.04-13.47.03:300][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_2_Auto1.uasset
+[2018.01.04-13.47.03:301][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-rightRun] ([1] browsable assets)...
+[2018.01.04-13.47.03:307][248]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TileSheets/Z15-rightRun.Z15-rightRun]
+[2018.01.04-13.47.03:307][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-rightRun]
+[2018.01.04-13.47.03:312][248]LogSavePackage: Save=3.26ms
+[2018.01.04-13.47.03:312][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-rightRun_Auto14B6414C144D55D6DACCCE289CFB00497.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-rightRun_Auto1.uasset'
+[2018.01.04-13.47.03:312][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-rightRun_Auto1.uasset
+[2018.01.04-13.47.03:313][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_4] ([1] browsable assets)...
+[2018.01.04-13.47.03:320][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_4.Z15-small_Sprite_4]
+[2018.01.04-13.47.03:320][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_4]
+[2018.01.04-13.47.03:324][248]LogSavePackage: Save=3.75ms
+[2018.01.04-13.47.03:324][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_4_Auto1E6F201424FAB0809970215944D5D7A3B.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_4_Auto1.uasset'
+[2018.01.04-13.47.03:325][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_4_Auto1.uasset
+[2018.01.04-13.47.03:325][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_5] ([1] browsable assets)...
+[2018.01.04-13.47.03:332][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_5.Z15-small_Sprite_5]
+[2018.01.04-13.47.03:332][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_5]
+[2018.01.04-13.47.03:337][248]LogSavePackage: Save=4.03ms
+[2018.01.04-13.47.03:337][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_5_Auto1E13C07E44F097F64731B3A997F27F974.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_5_Auto1.uasset'
+[2018.01.04-13.47.03:338][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_5_Auto1.uasset
+[2018.01.04-13.47.03:338][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_6] ([1] browsable assets)...
+[2018.01.04-13.47.03:345][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_6.Z15-small_Sprite_6]
+[2018.01.04-13.47.03:345][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_6]
+[2018.01.04-13.47.03:350][248]LogSavePackage: Save=3.99ms
+[2018.01.04-13.47.03:350][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_6_Auto1AC0B8B2243A392598F934EABB7A8FA78.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_6_Auto1.uasset'
+[2018.01.04-13.47.03:351][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_6_Auto1.uasset
+[2018.01.04-13.47.03:351][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_7] ([1] browsable assets)...
+[2018.01.04-13.47.03:358][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_7.Z15-small_Sprite_7]
+[2018.01.04-13.47.03:358][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_7]
+[2018.01.04-13.47.03:363][248]LogSavePackage: Save=3.91ms
+[2018.01.04-13.47.03:363][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_7_Auto17840E4814FC38FAB1855EBBBBF946BA3.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_7_Auto1.uasset'
+[2018.01.04-13.47.03:363][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_7_Auto1.uasset
+[2018.01.04-13.47.03:364][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_8] ([1] browsable assets)...
+[2018.01.04-13.47.03:370][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_8.Z15-small_Sprite_8]
+[2018.01.04-13.47.03:370][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_8]
+[2018.01.04-13.47.03:375][248]LogSavePackage: Save=3.93ms
+[2018.01.04-13.47.03:375][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_8_Auto17D919DFC47D0125E0BCC149150D339C0.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_8_Auto1.uasset'
+[2018.01.04-13.47.03:376][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_8_Auto1.uasset
+[2018.01.04-13.47.03:376][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-small_Sprite_9] ([1] browsable assets)...
+[2018.01.04-13.47.03:383][248]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TileSheets/Z15-small_Sprite_9.Z15-small_Sprite_9]
+[2018.01.04-13.47.03:383][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-small_Sprite_9]
+[2018.01.04-13.47.03:388][248]LogSavePackage: Save=3.72ms
+[2018.01.04-13.47.03:388][248]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_9_Auto199EE2BA44F6A4566F5C22C9ADFC47537.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_9_Auto1.uasset'
+[2018.01.04-13.47.03:388][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-small_Sprite_9_Auto1.uasset
+[2018.01.04-13.47.03:388][248]LogFileHelpers: Auto-saving content packages took 0.134
+[2018.01.04-13.48.11:024][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-leftRun" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftRun.uasset" SILENT=true
+[2018.01.04-13.48.11:030][966]LogSavePackage: Save=3.90ms
+[2018.01.04-13.48.11:030][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-leftRun22D8A63746E4D6B72110788459E62ED4.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftRun.uasset'
+[2018.01.04-13.48.11:031][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftRun.uasset
+[2018.01.04-13.48.11:041][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-rightRun" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightRun.uasset" SILENT=true
+[2018.01.04-13.48.11:046][966]LogSavePackage: Save=3.56ms
+[2018.01.04-13.48.11:046][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-rightRunA831498D40D59E0D7E006E9DE7BF3E0C.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightRun.uasset'
+[2018.01.04-13.48.11:048][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightRun.uasset
+[2018.01.04-13.48.11:050][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset" SILENT=true
+[2018.01.04-13.48.11:054][966]LogSavePackage: Save=1.61ms
+[2018.01.04-13.48.11:054][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-smallF1BF7A3542A38AEACB415ABB1389035A.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset'
+[2018.01.04-13.48.11:057][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small.uasset
+[2018.01.04-13.48.11:066][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_0" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_0.uasset" SILENT=true
+[2018.01.04-13.48.11:071][966]LogSavePackage: Save=3.92ms
+[2018.01.04-13.48.11:071][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_0DA5760D74C01E24A7114199FD49A3F38.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_0.uasset'
+[2018.01.04-13.48.11:073][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_0.uasset
+[2018.01.04-13.48.11:082][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_1.uasset" SILENT=true
+[2018.01.04-13.48.11:086][966]LogSavePackage: Save=3.79ms
+[2018.01.04-13.48.11:086][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_1E95118784012D7EAAC8D3DAFF7FEAD87.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_1.uasset'
+[2018.01.04-13.48.11:088][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_1.uasset
+[2018.01.04-13.48.11:096][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_2" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_2.uasset" SILENT=true
+[2018.01.04-13.48.11:101][966]LogSavePackage: Save=3.82ms
+[2018.01.04-13.48.11:101][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_256BA179F4C0E8403BE59ED8CEEB5E2B1.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_2.uasset'
+[2018.01.04-13.48.11:102][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_2.uasset
+[2018.01.04-13.48.11:111][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_4" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_4.uasset" SILENT=true
+[2018.01.04-13.48.11:116][966]LogSavePackage: Save=4.09ms
+[2018.01.04-13.48.11:116][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_425BF3B2F4FDBA0C8738420BF8546B212.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_4.uasset'
+[2018.01.04-13.48.11:117][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_4.uasset
+[2018.01.04-13.48.11:126][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_5" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_5.uasset" SILENT=true
+[2018.01.04-13.48.11:131][966]LogSavePackage: Save=4.15ms
+[2018.01.04-13.48.11:131][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_54097B61548B1D8E9001D9A95A7E2C0E7.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_5.uasset'
+[2018.01.04-13.48.11:133][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_5.uasset
+[2018.01.04-13.48.11:141][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_6" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_6.uasset" SILENT=true
+[2018.01.04-13.48.11:146][966]LogSavePackage: Save=4.22ms
+[2018.01.04-13.48.11:146][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_6E3A17A0E432238179D2864A7B9F0FF45.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_6.uasset'
+[2018.01.04-13.48.11:148][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_6.uasset
+[2018.01.04-13.48.11:156][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_7" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_7.uasset" SILENT=true
+[2018.01.04-13.48.11:161][966]LogSavePackage: Save=4.02ms
+[2018.01.04-13.48.11:161][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_7D69641D3424F3EFF2CF06499FE353126.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_7.uasset'
+[2018.01.04-13.48.11:163][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_7.uasset
+[2018.01.04-13.48.11:173][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_8" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_8.uasset" SILENT=true
+[2018.01.04-13.48.11:178][966]LogSavePackage: Save=4.03ms
+[2018.01.04-13.48.11:178][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_8F3814067497D4391BDE7F0BE903F3C5E.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_8.uasset'
+[2018.01.04-13.48.11:179][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_8.uasset
+[2018.01.04-13.48.11:189][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-small_Sprite_9" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_9.uasset" SILENT=true
+[2018.01.04-13.48.11:194][966]LogSavePackage: Save=4.06ms
+[2018.01.04-13.48.11:194][966]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-small_Sprite_9BD26AE13475C4DF55F98BF8E34A3CC58.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_9.uasset'
+[2018.01.04-13.48.11:195][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-small_Sprite_9.uasset
+[2018.01.04-13.57.03:629][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.010
+[2018.01.04-13.57.03:630][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-leftrun] ([1] browsable assets)...
+[2018.01.04-13.57.03:638][ 36]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TileSheets/Z15-leftrun.Z15-leftrun]
+[2018.01.04-13.57.03:638][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-leftrun]
+[2018.01.04-13.57.03:645][ 36]LogSavePackage: Save=5.66ms
+[2018.01.04-13.57.03:645][ 36]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-leftrun_Auto26BD743F0480975200757EBAC9245E90E.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-leftrun_Auto2.uasset'
+[2018.01.04-13.57.03:646][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-leftrun_Auto2.uasset
+[2018.01.04-13.57.03:646][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TileSheets/Z15-rightrun] ([1] browsable assets)...
+[2018.01.04-13.57.03:654][ 36]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TileSheets/Z15-rightrun.Z15-rightrun]
+[2018.01.04-13.57.03:654][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileSheets/Z15-rightrun]
+[2018.01.04-13.57.03:659][ 36]LogSavePackage: Save=3.84ms
+[2018.01.04-13.57.03:659][ 36]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-rightrun_Auto2CB163717437FDD7FA23036AC9878F16B.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-rightrun_Auto2.uasset'
+[2018.01.04-13.57.03:660][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/TileSheets/Z15-rightrun_Auto2.uasset
+[2018.01.04-13.57.03:660][ 36]LogFileHelpers: Auto-saving content packages took 0.030
+[2018.01.04-14.12.50:385][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-Idle" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-Idle.uasset" SILENT=true
+[2018.01.04-14.12.50:389][742]LogSavePackage: Save=3.73ms
+[2018.01.04-14.12.50:389][742]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-Idle76F419F845DE91CF6A4AEBB738AC6AED.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-Idle.uasset'
+[2018.01.04-14.12.50:391][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-Idle.uasset
+[2018.01.04-14.13.08:692][ 87]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.04-14.13.08:814][ 94]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.retroAestheticHons
+[2018.01.04-14.13.08:814][ 94]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.04-14.13.08:814][ 94]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.04-14.13.08:814][ 94]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.04-14.13.08:823][ 95]LogTemp: BranchPath = EUAN-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = EUAN-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.04-14.13.08:841][ 97]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Euan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.04-14.18.11:519][784]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.01.04-14.18.12:096][784]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.04-14.18.12:125][784]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.01.04-14.20.56:371][654]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.20.57:193][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Z15" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset" SILENT=true
+[2018.01.04-14.20.57:207][726]LogSavePackage: Save=11.51ms
+[2018.01.04-14.20.57:207][726]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15093A56FD4614EB0EC2F2E1AF989EAAB3.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset'
+[2018.01.04-14.20.57:209][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset
+[2018.01.04-14.21.18:830][265]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.25.02:214][631]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.26.31:727][464]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.01.04-14.27.09:586][951]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.27.42:335][470]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.27.45:445][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Z15" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset" SILENT=true
+[2018.01.04-14.27.45:470][470]LogSavePackage: Save=20.87ms
+[2018.01.04-14.27.45:470][470]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z155B1CD70E4886BCC98173D8967857D951.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset'
+[2018.01.04-14.27.45:472][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset
+[2018.01.04-14.27.45:480][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-leftrun" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftrun.uasset" SILENT=true
+[2018.01.04-14.27.45:485][470]LogSavePackage: Save=3.60ms
+[2018.01.04-14.27.45:485][470]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-leftrunD4B6ECF846D97F862E21C58FDE143BE8.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftrun.uasset'
+[2018.01.04-14.27.45:486][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-leftrun.uasset
+[2018.01.04-14.27.45:493][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/Z15-rightrun" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightrun.uasset" SILENT=true
+[2018.01.04-14.27.45:497][470]LogSavePackage: Save=3.41ms
+[2018.01.04-14.27.45:498][470]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15-rightrunA192B7754DC6E31585681397EEB4A225.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightrun.uasset'
+[2018.01.04-14.27.45:499][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/Z15-rightrun.uasset
+[2018.01.04-14.28.03:798][ 15]Cmd: MAP LOAD FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.04-14.28.03:800][ 15]LightingResults: New page: Lighting Build
+[2018.01.04-14.28.03:801][ 15]LoadErrors: New page: Loading map: retroAestheticHons.umap
+[2018.01.04-14.28.03:802][ 15]MapCheck: New page: Map Check
+[2018.01.04-14.28.03:802][ 15]LightingResults: New page: Lighting Build
+[2018.01.04-14.28.03:881][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.04-14.28.03:924][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.04-14.28.03:986][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.878ms to complete.
+[2018.01.04-14.28.03:988][ 15]LogFileHelpers: Loading map 'retroAestheticHons' took 0.193
+[2018.01.04-14.28.11:810][696]LogSavePackage: Save=9.75ms
+[2018.01.04-14.28.11:810][696]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHons435E5ED9415E293C1C8498AB30BB93FD.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-14.28.11:812][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-14.28.36:569][642]LogEditorActor: Deleted Actor: PlayerStart
+[2018.01.04-14.28.36:583][642]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.01.04-14.29.27:986][850]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.29.50:680][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.29.50:708][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.29.50:709][542]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:29:50)
+[2018.01.04-14.29.50:709][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.29.50:710][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2018.01.04-14.29.50:711][542]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.29.50:711][542]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.01.04-14.29.50:711][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.002183s)
+[2018.01.04-14.29.50:735][542]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.29.50:745][542]LogInit: FAudioDevice initialized.
+[2018.01.04-14.29.50:788][542]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.29.50:795][542]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.29.50
+[2018.01.04-14.29.50:797][542]LogWorld: Bringing up level for play took: 0.002271
+[2018.01.04-14.29.50:848][542]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.04-14.29.50:850][542]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.353
+[2018.01.04-14.29.54:499][971]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.29.54:509][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.29.54:509][971]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:29:54)
+[2018.01.04-14.29.54:509][971]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.29.54:510][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000804s)
+[2018.01.04-14.29.54:510][971]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.29.54:510][971]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2018.01.04-14.29.54:510][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001666s)
+[2018.01.04-14.29.54:532][971]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.29.54:541][971]LogInit: FAudioDevice initialized.
+[2018.01.04-14.29.54:570][971]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.29.54:572][971]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.29.54
+[2018.01.04-14.29.54:572][971]LogWorld: Bringing up level for play took: 0.001349
+[2018.01.04-14.29.54:573][971]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.63
+[2018.01.04-14.30.00:803][409]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.30.08:774][359]BlueprintLog: New page: Compile GameMode1
+[2018.01.04-14.30.09:543][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/GameMode1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset" SILENT=true
+[2018.01.04-14.30.09:550][430]LogSavePackage: Save=5.41ms
+[2018.01.04-14.30.09:550][430]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/GameMode1E37D1F4347F3D472F629009754FE58D8.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset'
+[2018.01.04-14.30.09:551][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset
+[2018.01.04-14.30.10:918][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.30.10:929][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.30.10:929][586]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:30:10)
+[2018.01.04-14.30.10:929][586]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.30.10:929][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000762s)
+[2018.01.04-14.30.10:930][586]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.30.10:930][586]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2018.01.04-14.30.10:930][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001528s)
+[2018.01.04-14.30.10:950][586]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.30.10:959][586]LogInit: FAudioDevice initialized.
+[2018.01.04-14.30.10:991][586]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.30.10:992][586]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.30.10
+[2018.01.04-14.30.10:993][586]LogWorld: Bringing up level for play took: 0.001328
+[2018.01.04-14.30.10:995][586]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.208
+[2018.01.04-14.31.13:569][976]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.31.13:580][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.31.13:580][976]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:31:13)
+[2018.01.04-14.31.13:580][976]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.31.13:581][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001079s)
+[2018.01.04-14.31.13:581][976]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.31.13:581][976]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.01.04-14.31.13:582][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001901s)
+[2018.01.04-14.31.13:632][976]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.31.13:641][976]LogInit: FAudioDevice initialized.
+[2018.01.04-14.31.13:674][976]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.31.13:676][976]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.31.13
+[2018.01.04-14.31.13:680][976]LogWorld: Bringing up level for play took: 0.005280
+[2018.01.04-14.31.13:681][976]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.478
+[2018.01.04-14.31.15:787][221]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.31.15:798][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.31.15:798][221]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:31:15)
+[2018.01.04-14.31.15:798][221]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.31.15:799][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001097s)
+[2018.01.04-14.31.15:800][221]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.31.15:800][221]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.01.04-14.31.15:800][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001887s)
+[2018.01.04-14.31.15:820][221]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.31.15:829][221]LogInit: FAudioDevice initialized.
+[2018.01.04-14.31.15:862][221]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.31.15:863][221]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.31.15
+[2018.01.04-14.31.15:864][221]LogWorld: Bringing up level for play took: 0.001629
+[2018.01.04-14.31.15:865][221]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.662
+[2018.01.04-14.31.19:067][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.31.19:078][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.31.19:078][598]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:31:19)
+[2018.01.04-14.31.19:078][598]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.31.19:079][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001018s)
+[2018.01.04-14.31.19:079][598]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.31.19:080][598]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.01.04-14.31.19:080][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001777s)
+[2018.01.04-14.31.19:100][598]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.31.19:108][598]LogInit: FAudioDevice initialized.
+[2018.01.04-14.31.19:141][598]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.31.19:142][598]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.31.19
+[2018.01.04-14.31.19:143][598]LogWorld: Bringing up level for play took: 0.001464
+[2018.01.04-14.31.19:144][598]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.059
+[2018.01.04-14.33.46:124][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileSheets/lvl1TileMap" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset" SILENT=true
+[2018.01.04-14.33.46:301][252]LogSavePackage: Save=171.05ms
+[2018.01.04-14.33.46:301][252]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/lvl1TileMapA8AB8775448BB145D3C30C854B3EF907.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset'
+[2018.01.04-14.33.46:304][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/TileSheets/lvl1TileMap.uasset
+[2018.01.04-14.33.48:941][502]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.33.48:952][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.33.48:953][502]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:33:48)
+[2018.01.04-14.33.48:953][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.33.48:954][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001047s)
+[2018.01.04-14.33.48:954][502]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.33.48:954][502]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.01.04-14.33.48:954][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001816s)
+[2018.01.04-14.33.49:004][502]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.33.49:014][502]LogInit: FAudioDevice initialized.
+[2018.01.04-14.33.49:049][502]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.33.49:052][502]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.33.49
+[2018.01.04-14.33.49:053][502]LogWorld: Bringing up level for play took: 0.001889
+[2018.01.04-14.33.49:054][502]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.149
+[2018.01.04-14.35.01:821][670]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.35.07:042][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Z15" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset" SILENT=true
+[2018.01.04-14.35.07:068][117]LogSavePackage: Save=23.38ms
+[2018.01.04-14.35.07:068][117]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15B933E95743E0509DEB38F58B816E2DFF.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset'
+[2018.01.04-14.35.07:070][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset
+[2018.01.04-14.35.07:174][117]LogSavePackage: Save=14.92ms
+[2018.01.04-14.35.07:174][117]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHons452A66674C451207D076F780A0664870.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-14.35.07:176][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-14.35.07:203][117]LogFileHelpers: Saving map 'retroAestheticHons' took 0.130
+[2018.01.04-14.35.24:348][166]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.35.24:366][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.35.24:366][166]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:35:24)
+[2018.01.04-14.35.24:366][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.35.24:367][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001168s)
+[2018.01.04-14.35.24:368][166]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.35.24:368][166]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2018.01.04-14.35.24:368][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001929s)
+[2018.01.04-14.35.24:393][166]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.35.24:403][166]LogInit: FAudioDevice initialized.
+[2018.01.04-14.35.24:436][166]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.35.24:437][166]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.35.24
+[2018.01.04-14.35.24:438][166]LogWorld: Bringing up level for play took: 0.001614
+[2018.01.04-14.35.24:439][166]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.764
+[2018.01.04-14.35.51:506][364]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.36.01:391][541]BlueprintLog: New page: Compile GameMode1
+[2018.01.04-14.36.02:310][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/GameMode1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset" SILENT=true
+[2018.01.04-14.36.02:319][627]LogSavePackage: Save=5.20ms
+[2018.01.04-14.36.02:319][627]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/GameMode18E7018364B80A04C23BC17A4529B06F7.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset'
+[2018.01.04-14.36.02:321][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset
+[2018.01.04-14.36.02:769][672]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.04-14.36.37:133][772]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.36.50:192][319]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.36.50:204][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.36.50:204][319]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:36:50)
+[2018.01.04-14.36.50:204][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.36.50:205][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001019s)
+[2018.01.04-14.36.50:205][319]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.36.50:206][319]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2018.01.04-14.36.50:206][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001755s)
+[2018.01.04-14.36.50:227][319]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.36.50:236][319]LogInit: FAudioDevice initialized.
+[2018.01.04-14.36.50:269][319]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.36.50:270][319]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.36.50
+[2018.01.04-14.36.50:270][319]LogWorld: Bringing up level for play took: 0.001432
+[2018.01.04-14.36.50:271][319]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.931
+[2018.01.04-14.36.52:644][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.36.52:654][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.36.52:655][596]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:36:52)
+[2018.01.04-14.36.52:655][596]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.36.52:656][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001002s)
+[2018.01.04-14.36.52:656][596]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.36.52:656][596]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2018.01.04-14.36.52:656][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001724s)
+[2018.01.04-14.36.52:676][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.36.52:687][596]LogInit: FAudioDevice initialized.
+[2018.01.04-14.36.52:719][596]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.36.52:720][596]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.36.52
+[2018.01.04-14.36.52:721][596]LogWorld: Bringing up level for play took: 0.001426
+[2018.01.04-14.36.52:722][596]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.481
+[2018.01.04-14.36.56:059][988]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.36.56:070][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.36.56:070][988]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:36:56)
+[2018.01.04-14.36.56:070][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.36.56:071][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001044s)
+[2018.01.04-14.36.56:071][988]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.36.56:072][988]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2018.01.04-14.36.56:072][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001819s)
+[2018.01.04-14.36.56:092][988]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.36.56:103][988]LogInit: FAudioDevice initialized.
+[2018.01.04-14.36.56:133][988]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.36.56:134][988]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.36.56
+[2018.01.04-14.36.56:135][988]LogWorld: Bringing up level for play took: 0.001436
+[2018.01.04-14.36.56:136][988]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.933
+[2018.01.04-14.37.41:719][332]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.01.04-14.37.48:885][172]BlueprintLog: New page: Compile GameMode1
+[2018.01.04-14.37.49:565][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/GameMode1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset" SILENT=true
+[2018.01.04-14.37.49:573][230]LogSavePackage: Save=4.75ms
+[2018.01.04-14.37.49:573][230]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/GameMode1BC76A3E84E93B37E47D661B7B77D8E74.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset'
+[2018.01.04-14.37.49:574][230]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset
+[2018.01.04-14.38.01:966][695]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.39.09:491][612]LogEditorViewport: Clicking on Actor (LMB): Z15_C (Z15)
+[2018.01.04-14.39.10:845][756]Cmd: DELETE
+[2018.01.04-14.39.10:845][756]Cmd: ACTOR DELETE
+[2018.01.04-14.39.10:847][756]LogEditorActor: Deleted Actor: Z15_C
+[2018.01.04-14.39.10:890][756]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.01.04-14.39.15:382][275]LogEditorActor: Deleted Actor: Z15_C
+[2018.01.04-14.39.15:397][275]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.01.04-14.40.26:971][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/GameMode1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset" SILENT=true
+[2018.01.04-14.40.26:979][555]LogSavePackage: Save=4.95ms
+[2018.01.04-14.40.26:979][555]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/GameMode12C43029F4629896F5D1DF4B993E28A62.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset'
+[2018.01.04-14.40.26:981][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset
+[2018.01.04-14.40.27:078][555]LogSavePackage: Save=13.24ms
+[2018.01.04-14.40.27:078][555]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHons0E40C6C54AC8775EEF2768B52B51B24A.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-14.40.27:079][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-14.40.27:095][555]LogFileHelpers: Saving map 'retroAestheticHons' took 0.110
+[2018.01.04-14.40.27:783][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.40.27:794][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.40.27:794][633]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:40:27)
+[2018.01.04-14.40.27:794][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.40.27:795][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001047s)
+[2018.01.04-14.40.27:796][633]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.40.27:796][633]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.01.04-14.40.27:796][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001785s)
+[2018.01.04-14.40.27:846][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.40.27:857][633]LogInit: FAudioDevice initialized.
+[2018.01.04-14.40.27:889][633]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.40.27:890][633]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.40.27
+[2018.01.04-14.40.27:891][633]LogWorld: Bringing up level for play took: 0.001520
+[2018.01.04-14.40.27:892][633]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.689
+[2018.01.04-14.40.53:596][405]BlueprintLog: New page: Compile Z15
+[2018.01.04-14.40.54:330][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Z15" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset" SILENT=true
+[2018.01.04-14.40.54:354][445]LogSavePackage: Save=20.26ms
+[2018.01.04-14.40.54:354][445]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z15B78FCDF640313202A1D88BA7472B611A.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset'
+[2018.01.04-14.40.54:356][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset
+[2018.01.04-14.40.56:632][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.40.56:648][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.40.56:648][692]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:40:56)
+[2018.01.04-14.40.56:648][692]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.40.56:650][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001472s)
+[2018.01.04-14.40.56:650][692]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.40.56:650][692]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2018.01.04-14.40.56:651][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.002312s)
+[2018.01.04-14.40.56:672][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.40.56:681][692]LogInit: FAudioDevice initialized.
+[2018.01.04-14.40.56:712][692]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.40.56:713][692]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.40.56
+[2018.01.04-14.40.56:713][692]LogWorld: Bringing up level for play took: 0.001313
+[2018.01.04-14.40.56:715][692]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.488
+[2018.01.04-14.41.11:359][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Z15" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset" SILENT=true
+[2018.01.04-14.41.11:383][ 21]LogSavePackage: Save=21.03ms
+[2018.01.04-14.41.11:383][ 21]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Z155C5C73E04E8EDC05980815A19A9C7FD0.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset'
+[2018.01.04-14.41.11:385][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/BluePrint/Z15.uasset
+[2018.01.04-14.41.13:972][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.41.13:983][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.04-14.41.13:987][291]LogPlayLevel: [PlayLevel] Compiling Z15 before play...
+[2018.01.04-14.41.14:221][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2018.01.04-14.41.14:221][291]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:41:14)
+[2018.01.04-14.41.14:221][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.41.14:222][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2018.01.04-14.41.14:223][291]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.41.14:223][291]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.01.04-14.41.14:223][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001885s)
+[2018.01.04-14.41.14:244][291]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.41.14:254][291]LogInit: FAudioDevice initialized.
+[2018.01.04-14.41.14:286][291]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.41.14:288][291]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.41.14
+[2018.01.04-14.41.14:288][291]LogWorld: Bringing up level for play took: 0.001570
+[2018.01.04-14.41.14:289][291]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 1.087
+[2018.01.04-14.41.37:809][ 81]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-14.43.45:457][875]LogEditorViewport: Clicking on Actor (LMB): Z15_C (Z15)
+[2018.01.04-14.43.45:831][903]LogEditorViewport: Clicking on Actor (context menu): Z15_C (Z15)
+[2018.01.04-14.43.49:890][339]LogSavePackage: Save=13.53ms
+[2018.01.04-14.43.49:890][339]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHons3EB9545B4357B05CCEB182A3D8CE82EB.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-14.43.49:891][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-14.43.50:797][435]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.43.50:809][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.43.50:809][435]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:43:50)
+[2018.01.04-14.43.50:809][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.43.50:811][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001024s)
+[2018.01.04-14.43.50:811][435]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.43.50:811][435]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.01.04-14.43.50:811][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001756s)
+[2018.01.04-14.43.50:859][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.43.50:869][435]LogInit: FAudioDevice initialized.
+[2018.01.04-14.43.50:902][435]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.43.50:904][435]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.43.50
+[2018.01.04-14.43.50:905][435]LogWorld: Bringing up level for play took: 0.001696
+[2018.01.04-14.43.50:906][435]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.297
+[2018.01.04-14.52.49:509][898]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.52.49:520][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.52.49:520][898]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:52:49)
+[2018.01.04-14.52.49:520][898]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.52.49:521][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001139s)
+[2018.01.04-14.52.49:522][898]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.52.49:522][898]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2018.01.04-14.52.49:523][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.002494s)
+[2018.01.04-14.52.49:577][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.52.49:588][898]LogInit: FAudioDevice initialized.
+[2018.01.04-14.52.49:620][898]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.52.49:622][898]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.52.49
+[2018.01.04-14.52.49:622][898]LogWorld: Bringing up level for play took: 0.001897
+[2018.01.04-14.52.49:623][898]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.42
+[2018.01.04-14.52.51:835][155]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-14.52.51:845][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-14.52.51:845][155]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 14:52:51)
+[2018.01.04-14.52.51:845][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-14.52.51:846][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001017s)
+[2018.01.04-14.52.51:846][155]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-14.52.51:846][155]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.01.04-14.52.51:847][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001859s)
+[2018.01.04-14.52.51:867][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-14.52.51:877][155]LogInit: FAudioDevice initialized.
+[2018.01.04-14.52.51:905][155]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-14.52.51:907][155]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-14.52.51
+[2018.01.04-14.52.51:908][155]LogWorld: Bringing up level for play took: 0.001710
+[2018.01.04-14.52.51:909][155]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.706
+[2018.01.04-14.53.06:051][833]LogEditorViewport: Clicking on Actor (context menu): Z15_C (Z15)
+[2018.01.04-14.53.07:023][922]LogEditorViewport: Clicking on Actor (LMB): Z15_C (Z15)
+[2018.01.04-14.53.54:286][718]LogSavePackage: Save=14.38ms
+[2018.01.04-14.53.54:286][718]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHons_Auto32AC403564F0B31DD091CFBAFE2102011.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/retroAestheticHons_Auto3.umap'
+[2018.01.04-14.53.54:287][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/Autosaves/Game/retroAestheticHons_Auto3.umap
+[2018.01.04-14.53.54:289][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/retroAestheticHons' took 0.042
+[2018.01.04-14.53.54:289][718]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.042
+[2018.01.04-15.37.08:454][506]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (bg_Sprite2)
+[2018.01.04-15.37.18:637][673]LogEditorViewport: Clicking on Actor (LMB): Z15_C (Z15)
+[2018.01.04-15.41.07:122][547]BlueprintLog: New page: Compile GameMode1
+[2018.01.04-15.41.41:122][683]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-15.41.50:848][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.04-15.41.52:304][703]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.41.52:316][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.41.52:316][703]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:41:52)
+[2018.01.04-15.41.52:316][703]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.41.52:318][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001594s)
+[2018.01.04-15.41.52:319][703]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.41.52:320][703]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2018.01.04-15.41.52:320][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.003563s)
+[2018.01.04-15.41.52:371][703]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.41.52:381][703]LogInit: FAudioDevice initialized.
+[2018.01.04-15.41.52:412][703]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.41.52:414][703]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.41.52
+[2018.01.04-15.41.52:415][703]LogWorld: Bringing up level for play took: 0.002153
+[2018.01.04-15.41.52:416][703]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.787
+[2018.01.04-15.43.46:250][883]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.01.04-15.43.49:036][215]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.43.49:047][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.43.49:047][215]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:43:49)
+[2018.01.04-15.43.49:047][215]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.43.49:049][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2018.01.04-15.43.49:049][215]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.43.49:049][215]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.01.04-15.43.49:049][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.002071s)
+[2018.01.04-15.43.49:073][215]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.43.49:082][215]LogInit: FAudioDevice initialized.
+[2018.01.04-15.43.49:118][215]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.43.49:120][215]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.43.49
+[2018.01.04-15.43.49:120][215]LogWorld: Bringing up level for play took: 0.001649
+[2018.01.04-15.43.49:122][215]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.081
+[2018.01.04-15.43.51:227][460]Cmd: SELECT NONE
+[2018.01.04-15.43.51:730][520]Cmd: SELECT NONE
+[2018.01.04-15.43.52:636][628]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.43.52:648][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.43.52:648][628]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:43:52)
+[2018.01.04-15.43.52:649][628]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.43.52:650][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001103s)
+[2018.01.04-15.43.52:650][628]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.43.52:650][628]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2018.01.04-15.43.52:650][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001825s)
+[2018.01.04-15.43.52:670][628]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.43.52:679][628]LogInit: FAudioDevice initialized.
+[2018.01.04-15.43.52:707][628]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.43.52:708][628]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.43.52
+[2018.01.04-15.43.52:709][628]LogWorld: Bringing up level for play took: 0.001333
+[2018.01.04-15.43.52:711][628]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.492
+[2018.01.04-15.44.01:223][561]BlueprintLog: New page: Compile GameMode1
+[2018.01.04-15.44.06:347][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/GameMode1" FILE="../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset" SILENT=true
+[2018.01.04-15.44.06:360][802]LogSavePackage: Save=7.56ms
+[2018.01.04-15.44.06:360][802]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/GameMode1F40811CF40E3745B4697E4AC86048A20.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset'
+[2018.01.04-15.44.06:367][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/GameMode/GameMode1.uasset
+[2018.01.04-15.44.06:484][802]LogSavePackage: Save=14.28ms
+[2018.01.04-15.44.06:484][802]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHonsD81E9AF841543C0391C00AAC7B716D09.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-15.44.06:486][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-15.44.06:502][802]LogFileHelpers: Saving map 'retroAestheticHons' took 0.132
+[2018.01.04-15.44.32:226][447]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-15.45.21:543][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bg_Sprite2)
+[2018.01.04-15.45.21:988][875]LogEditorViewport: Clicking on Actor (LMB): Z15_C (Z15)
+[2018.01.04-15.45.23:550][ 50]Cmd: DELETE
+[2018.01.04-15.45.23:550][ 50]Cmd: ACTOR DELETE
+[2018.01.04-15.45.23:551][ 50]LogEditorActor: Deleted Actor: Z15_C
+[2018.01.04-15.45.23:592][ 50]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.01.04-15.45.39:211][880]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.04-15.45.43:291][366]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.04-15.45.45:128][585]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.04-15.45.47:093][819]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.45.47:104][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.45.47:104][819]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:45:47)
+[2018.01.04-15.45.47:104][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.45.47:105][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2018.01.04-15.45.47:106][819]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.45.47:106][819]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.01.04-15.45.47:106][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001746s)
+[2018.01.04-15.45.47:126][819]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.45.47:136][819]LogInit: FAudioDevice initialized.
+[2018.01.04-15.45.47:167][819]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.45.47:169][819]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.45.47
+[2018.01.04-15.45.47:169][819]LogWorld: Bringing up level for play took: 0.001271
+[2018.01.04-15.45.47:170][819]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons -0.033
+[2018.01.04-15.45.52:588][453]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bg_Sprite2)
+[2018.01.04-15.45.53:084][502]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.04-15.45.55:354][771]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.04-15.45.56:174][868]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.45.56:185][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.45.56:186][868]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:45:56)
+[2018.01.04-15.45.56:186][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.45.56:187][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2018.01.04-15.45.56:187][868]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.45.56:187][868]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.01.04-15.45.56:188][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001974s)
+[2018.01.04-15.45.56:208][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.45.56:218][868]LogInit: FAudioDevice initialized.
+[2018.01.04-15.45.56:247][868]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.45.56:248][868]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.45.56
+[2018.01.04-15.45.56:249][868]LogWorld: Bringing up level for play took: 0.001336
+[2018.01.04-15.45.56:250][868]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 1.047
+[2018.01.04-15.46.29:330][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.04-15.46.29:340][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-15.46.29:340][829]PIE: New page: PIE session: retroAestheticHons (4 Jan 2018 15:46:29)
+[2018.01.04-15.46.29:340][829]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_retroAestheticHons
+[2018.01.04-15.46.29:341][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000808s)
+[2018.01.04-15.46.29:342][829]LogAIModule: Creating AISystem for world retroAestheticHons
+[2018.01.04-15.46.29:342][829]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2018.01.04-15.46.29:342][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/retroAestheticHons.retroAestheticHons to /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons (0.001588s)
+[2018.01.04-15.46.29:363][829]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-15.46.29:372][829]LogInit: FAudioDevice initialized.
+[2018.01.04-15.46.29:401][829]LogLoad: Game class is 'GameMode1_C'
+[2018.01.04-15.46.29:403][829]LogWorld: Bringing World /Game/UEDPIE_0_retroAestheticHons.retroAestheticHons up for play (max tick rate 0) at 2018.01.04-15.46.29
+[2018.01.04-15.46.29:403][829]LogWorld: Bringing up level for play took: 0.001457
+[2018.01.04-15.46.29:405][829]PIE: Play in editor start time for /Game/UEDPIE_0_retroAestheticHons 0.202
+[2018.01.04-15.47.51:192][457]LogSavePackage: Save=10.30ms
+[2018.01.04-15.47.51:192][457]LogSavePackage: Moving '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Saved/retroAestheticHonsE402159942E3BF1C5E2F1A87E006EDF6.tmp' to '../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap'
+[2018.01.04-15.47.51:194][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Euan/Documents/Unreal Projects/retroAestheticHons/Content/retroAestheticHons.umap
+[2018.01.04-15.47.51:209][457]LogFileHelpers: Saving map 'retroAestheticHons' took 0.101
+[2018.01.04-15.48.32:597][ 11]LogEditorTransaction: Undo Set Scale
+[2018.01.04-15.48.32:599][ 11]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_29:PersistentLevel.Z15_C_5.CollisionCylinder) Component already registered.
+[2018.01.04-15.48.32:890][ 11]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.289 s
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: 
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: 
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: Stack: 
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F5212786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F4FB123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F4FCB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B60B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B0DD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000ED50C07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000ED50CE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000ED4AFB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000ED4B4747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FC71290 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FC65FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FC34A47 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FC36C17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FCD3675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FAE8CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FA88824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2A49844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F27E1859 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F277092C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F277562C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2B3AC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2AE0AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2AE4A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2AE2DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2B412CC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F271D7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F279DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F27EE0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:890][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B0EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B36112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B1DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B1E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3B828FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F3BC5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2770FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F2775D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FA89636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FAC83A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F437BE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000F4367803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FA763A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FA4700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FA48C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FAC988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000001FABBEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000002325E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x0000000023251A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000232603EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000002324D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000003EF6B85D USER32.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000003EF6B1EF USER32.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x0000000023261516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000D56B50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000D56C5430 UE4Editor.exe!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000D56C54AA UE4Editor.exe!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000D56D2379 UE4Editor.exe!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x00000000D56D3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000003F171FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: [Callstack] 0x000000003F90EF91 ntdll.dll!UnknownFunction []
+[2018.01.04-15.48.32:891][ 11]LogOutputDevice: Error: 
+[2018.01.04-15.48.32:892][ 11]LogStats:                SubmitErrorReport -  0.000 s
